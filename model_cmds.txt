@@ -1,0 +1,5 @@
+python3 models/linear_regression.py 
+python3 models/lassoCV.py
+python3 models/svr.py
+python3 models/random_forrest.py
+python3 models/gradient_boost.py
